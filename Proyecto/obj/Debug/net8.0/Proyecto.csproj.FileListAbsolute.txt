@@ -1,0 +1,14 @@
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\bin\Debug\net8.0\Proyecto.exe
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\bin\Debug\net8.0\Proyecto.deps.json
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\bin\Debug\net8.0\Proyecto.dll
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\bin\Debug\net8.0\Proyecto.pdb
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\obj\Debug\net8.0\Proyecto.dll
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\obj\Debug\net8.0\refint\Proyecto.dll
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\obj\Debug\net8.0\Proyecto.pdb
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+C:\Users\Portillo\Desktop\Inventario\ProyectoArchivos-\Proyecto\obj\Debug\net8.0\ref\Proyecto.dll
